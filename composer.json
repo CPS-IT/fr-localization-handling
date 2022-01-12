@@ -1,0 +1,31 @@
+{
+  "name": "fr/localization-handling",
+  "description": "Extends TYPO3 localization handling",
+  "homepage": "https://gitlab.321.works/typo3/localization-handling",
+  "license": "GPL-2.0-or-later",
+  "type": "typo3-cms-extension",
+  "require": {
+    "typo3/cms-core": "^10.4"
+  },
+  "require-dev": {
+    "roave/security-advisories": "dev-master",
+    "nimut/testing-framework": "^4.0 || ^5.0"
+  },
+  "extra": {
+    "typo3/cms": {
+      "extension-key": "fr_localization_handling",
+      "cms-package-dir": "{$vendor-dir}/typo3/cms",
+      "web-dir": ".Build/Web"
+    }
+  },
+  "autoload": {
+    "psr-4": {
+      "Fr\\LocalizationHandling\\": "Classes"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Fr\\LocalizationHandling\\Tests\\": "Tests"
+    }
+  }
+}
