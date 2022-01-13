@@ -1,2 +1,6 @@
+2022-01-13         [RELEASE] Release of fr_localization_handling 0.2.0 (Vladimir Falcon)
+2022-01-13 298f998 Feature: force localization fallback type free (Vladimir Falcon)
+2022-01-12 76fc605 Rename Classes directory (Vladimir Falcon)
+
 2022-01-12         [RELEASE] Release of fr_localization_handling 0.0.1 (Vladimir Falcon)
 2022-01-12 3330aec Add Services.yaml configuration file (Vladimir Falcon)
