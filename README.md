@@ -2,7 +2,7 @@
 
 Extends TYPO3 localization handling to enforce TYPO3 fallbackType: "free" wenn localizing for tt_content records.
 
-Requires TYPO3 Version 9.5x
+Requires TYPO3 Version 10.4.x
 
 Features:
 
