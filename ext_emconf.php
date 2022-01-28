@@ -3,16 +3,16 @@ $EM_CONF[$_EXTKEY] = [
     'title' => 'Fr localization handling',
     'description' => 'Use hooks to enforce TYPO3 fallbackType: free for tt_content records.',
     'category' => 'be',
-    'state' => 'beta',
+    'state' => 'stable',
     'author' => 'familie redlich:digital',
     'author_email' => 'v.falcon@familie-redlich.de',
     'author_company' => 'familie redlich digital',
-    'version' => '0.2.1',
+    'version' => '1.0.0',
     'constraints' =>
         [
             'depends' =>
                 [
-                    'typo3' => '10.4.1-10.4.99',
+                    'typo3' => '10.4.0-10.99.99',
                 ],
             'conflicts' =>
                 [

@@ -2,6 +2,8 @@
 
 Extends TYPO3 localization handling to enforce TYPO3 fallbackType: "free" wenn localizing for tt_content records.
 
+Requires TYPO3 Version 9.5x
+
 Features:
 
 - Rewrites DataHandler calls to `localize` cmd for tt_content records and set the cmd to `copyToLanguage`.
