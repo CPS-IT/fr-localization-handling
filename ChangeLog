@@ -1,3 +1,6 @@
+2022-01-28         [RELEASE] Release of fr_localization_handling 1.0.0 (Vladimir Falcon)
+2022-01-28 73e2627 Restrict support to TYPO3 V9 (Vladimir Falcon)
+
 2022-01-28         [RELEASE] Release of localization-handling 0.3.0 (Vladimir Falcon)
 2022-01-28 0166527 Features lower requiremtns to support TYPO3 version 9.5x (Vladimir Falcon)
 
