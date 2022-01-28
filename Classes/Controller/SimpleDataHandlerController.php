@@ -18,7 +18,7 @@ use TYPO3\CMS\Core\Utility\GeneralUtility;
 
 class SimpleDataHandlerController extends \TYPO3\CMS\Backend\Controller\SimpleDataHandlerController
 {
-    public function init(ServerRequestInterface $request): void
+    protected function init(ServerRequestInterface $request): void
     {
         parent::init($request);
 
