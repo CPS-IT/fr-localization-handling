@@ -1,3 +1,6 @@
+2022-06-16         [RELEASE] Release of fr_localization_handling 1.0.1 (Vladimir Falcon)
+2022-06-16 f86935c Fixed SimpleDataHandlerController->init definition to match TYPO3 V9.5.36 (Vladimir Falcon)
+
 2022-01-28         [RELEASE] Release of fr_localization_handling 1.0.0 (Vladimir Falcon)
 2022-01-28 73e2627 Restrict support to TYPO3 V9 (Vladimir Falcon)
 
