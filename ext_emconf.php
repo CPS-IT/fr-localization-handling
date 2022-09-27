@@ -7,12 +7,12 @@ $EM_CONF[$_EXTKEY] = [
     'author' => 'familie redlich:digital',
     'author_email' => 'v.falcon@familie-redlich.de',
     'author_company' => 'familie redlich digital',
-    'version' => '2.0.1',
+    'version' => '2.0.2',
     'constraints' =>
         [
             'depends' =>
                 [
-                    'typo3' => '10.4.0-10.99.99',
+                    'typo3' => '10.4.0-11.99.99',
                 ],
             'conflicts' =>
                 [
