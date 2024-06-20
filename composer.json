@@ -5,7 +5,7 @@
   "license": "GPL-2.0-or-later",
   "type": "typo3-cms-extension",
   "require": {
-    "typo3/cms-core": "^10.4 || ^12.4"
+    "typo3/cms-core": "^12.4"
   },
   "extra": {
     "typo3/cms": {
