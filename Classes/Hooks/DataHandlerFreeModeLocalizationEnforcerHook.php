@@ -22,7 +22,10 @@ class DataHandlerFreeModeLocalizationEnforcerHook
 
     public function processCmdmap_beforeStart(DataHandler $dataHandler): void
     {
-        if (!empty($dataHandler->cmdmap) && array_key_exists(static::TABLE_TT_CONTENT, $dataHandler->cmdmap)) {
+        if (
+            !empty($dataHandler->cmdmap) &&
+            array_key_exists(static::TABLE_TT_CONTENT, $dataHandler->cmdmap)
+        ) {
             $freeModeLocalizationEnforcer = GeneralUtility::makeInstance(FreeModeLocalizationEnforcer::class);
             $dataHandler->cmdmap = $freeModeLocalizationEnforcer->getProcessedCmd($dataHandler->cmdmap);
         }
