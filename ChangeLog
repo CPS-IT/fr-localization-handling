@@ -1,3 +1,10 @@
+2024-06-24         [RELEASE] Release of localization-handling 2.0.5 (Marno Schmigotzki)
+2024-06-24 e89ffa5 [TASK] TYPO3 12 support (Marno Schmigotzki)
+2024-06-24 aac7086 [TASK] updated dependencies (Marno Schmigotzki)
+2024-06-20 f86f18e [TASK] update dependencies/requirements (Marno Schmigotzki)
+2024-05-15 5073834 [CS] #53751 (Ricky Bohse)
+2024-05-13 21468e9 Update composer.json (Stefan Erdmann)
+
 2023-01-31         [RELEASE] Release of fr_localization_handling 2.0.4 (Vladimir Falcon)
 2023-01-06 b500e88 Refactoring TYPO3 11 Support (Vladimir Falcon)
 
