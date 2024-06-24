@@ -2,7 +2,7 @@
 
 ### Requirements
 
-Requires TYPO3 Version 10.4.x to 11.5.x
+Requires TYPO3 Version 10.4.x to 12.4.x
 
 ### Description
 
